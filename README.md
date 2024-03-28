@@ -9,13 +9,31 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 Created a new repository for this project called pandas-challenge, Cloned the new repository to local by terminal.
 
-Inside my local Git repository, created a folder for PyCitySchools
+Inside my local Git repository, created a folder for "PyCitySchools"
 
-Added your Jupyter notebook to this folder. This is the main script to run for analysis.
+Added Jupyter notebook "(PyCitySchools_starter.ipynb)" to this folder. This is the main script to run for analysis.
 
 A Resources folder that contains the CSV files i have used. 
 
 Also this folder that contains pdf file that has the results from the conducted analysis.
 
 Pushed these changes to GitHub profile by bash terminal.
+
+# Instructions
+Using Pandas and Jupyter Notebook, create a report that includes the following data. Report is included a written description of at least two observable trends based on the data.
+
+Check out the sample solution called "PyCitySchools_starter.ipynb" located in the "PyCitySchools" folder
+to review the desired edges for this analysis.
+
+# District Summary
+Performed the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
+Include the following:
+Total number of unique schools
+Total students
+Total budget
+Average math score
+Average reading score
+% passing math (the percentage of students who passed math)
+% passing reading (the percentage of students who passed reading)
+% overall passing (the percentage of students who passed math AND reading)
 
