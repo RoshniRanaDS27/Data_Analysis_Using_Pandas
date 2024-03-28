@@ -7,7 +7,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 # Repo Instructions
 
-Created a new repository for this project called pandas-challenge, Cloned the new repository to local by terminal.
+Created a new repository for this project called # pandas-challenge, Cloned the new repository to local by terminal.
 
 Inside my local Git repository, created a folder for "PyCitySchools"
 
