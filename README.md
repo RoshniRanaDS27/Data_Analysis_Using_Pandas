@@ -82,10 +82,30 @@ This new DataFrame should show school performance based on the "School Type".
 The analysis focused on evaluating the academic performance of schools based on various factors such as school type, size, and per student budget. It examined average math and reading scores, as well as the percentage of students passing math, reading, and overall. The data revealed significant differences between Charter and District schools, with Charter schools consistently performing better across all metrics. Additionally, the analysis explored the relationship between per student budget and academic performance, noting that higher budget allocation did not always correlate with better outcomes. This suggests that how factors beyond financial resources, such as teaching quality and school culture, may influence student achievements. Overall, the analysis highlights the importance of considering multiple factors when assessing school performance and emphasizes the need for further investigation into effective educational practices.
 
 # Key Findings:
-Comparison of School Types:
+# Comparison of School Types:
 I.
 In every criterion, charter schools did better than district schools. Overall passing rates, percentages of children passing math and reading, and average math and reading scores were all higher in charter schools.
+
 II.
 The average math and reading scores for charter schools were 83.47 and 83.90, respectively, considerably higher than the average scores of 76.96 and 80.97 for district schools.
+
 III.
 Additionally, the passing percentages in arithmetic (93.62% vs. 66.55%) and reading (96.59% vs. 80.80%) were much better in Charter schools, leading to an overall passing rate of 90.43% compared to 53.67% for District schools.
+
+# Budget per Student Analysis:
+I.
+The investigation also looked into how each student's budget affected their academic achievement. Unexpectedly, schools with smaller funds per student frequently fared better than those with larger budgets.
+
+II.
+91.33% was the highest overall passing percentage for schools in the lowest budget category (<$585), while 54.64% was the highest for schools in the highest budget group ($645–680).
+
+III.
+This shows that a number of variables, including school administration, resource distribution, and the caliber of instruction, are more important in predicting academic performance than financial constraints.
+
+# Analysis Findings:
+The research emphasizes how crucial school style and efficient resource use are in affecting student success. Charter schools routinely outperform District schools, while sometimes having smaller funding per student. This shows how important the instructional ideas and approaches used by these schools are.
+
+The results also cast doubt on the idea that larger budgets equate to improved academic performance, emphasizing the need for a more complex understanding of the variables influencing school achievement outside of financial resources. This suggests that spending more on student support services, curriculum development, and teacher training might improve student accomplishment more than just raising funding levels.
+
+# Conclusion
+In conclusion, while financial resources are important for educational institutions, the analysis underscores the significance of other factors such as school type and teaching methodologies in driving academic excellence. Moreover, it highlights the need for further investigation into the specific practices and approaches employed by Charter schools that contribute to their superior performance compared to District schools.
