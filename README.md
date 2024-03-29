@@ -7,7 +7,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 # Repo Instructions
 
-Created a new repository for this project called # pandas-challenge, Cloned the new repository to local by terminal.
+Created a new repository for this project called #pandas-challenge, Cloned the new repository to local by terminal.
 
 Inside my local Git repository, created a folder for "PyCitySchools"
 
@@ -15,7 +15,7 @@ Added Jupyter notebook "(PyCitySchools_starter.ipynb)" to this folder. This is t
 
 A Resources folder that contains the CSV files i have used. 
 
-Also this folder that contains pdf file that has the results from the conducted analysis.
+Also this folder that contains "pdf" file that has the results from the conducted analysis.
 
 Pushed these changes to GitHub profile by bash terminal.
 
@@ -60,7 +60,7 @@ Used required code to create four bins with reasonable cutoff values to group sc
 Used pd.cut to categorize spending based on the bins.
 
 Created the code to calculate mean scores per spending range
-Used the scores above to create a DataFrame called spending_summary.
+Used the scores above to create a DataFrame called "spending_summary".
 
 Include the following metrics in the table:
 
@@ -68,11 +68,11 @@ Average math score, Average reading score, % passing math (the percentage of stu
 
 # Scores by School Size
 Created the required code to bin the per_school_summary.
-Used pd.cut on the "Total Students" column of the per_school_summary DataFrame.
+Used "pd.cut" on the "Total Students" column of the "per_school_summary" DataFrame.
 
-Created a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
+Created a DataFrame called "size_summary" that breaks down school performance based on school size (small, medium, or large).
 
 # Scores by School Type
-Used the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
+Used the "per_school_summary" DataFrame from the previous step to create a new DataFrame called "type_summary".
 
 This new DataFrame should show school performance based on the "School Type".
