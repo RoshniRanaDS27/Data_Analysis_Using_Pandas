@@ -11,9 +11,9 @@ Created a new repository for this project called #pandas-challenge, Cloned the n
 
 Inside my local Git repository, created a folder for "PyCitySchools"
 
-Added Jupyter notebook "(PyCitySchools_starter.ipynb)" to this folder. This is the main script to run for analysis.
+Added Jupyter notebook "(PyCitySchools_starter.ipynb)" to this folder. This is the main script to run this analysis.
 
-A Resources folder that contains the CSV files i have used. 
+A Resources folder that contains the CSV files(Raw Data) i have used. 
 
 Also this folder that contains "pdf" file that has the results from the conducted analysis.
 
