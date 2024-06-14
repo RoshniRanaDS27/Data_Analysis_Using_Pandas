@@ -1,5 +1,6 @@
 # Python-challenge
-![image](https://github.com/RoshniRanaDS/Data_Analysis_Using_Pandas/assets/161755928/b07ccb91-97f5-4461-9f47-5147386f5a3a)
+![image](https://github.com/RoshniRanaDS/Data_Analysis_Using_Pandas/assets/161755928/b07ccb91-97f5-4461-9f47-5147386f5a3a) & ![image](https://github.com/RoshniRanaDS/Data_Analysis_Using_Pandas/assets/161755928/9b82848f-6a53-4432-986d-e058768ab3cb)
+
 
 ## Created And Manipulated Pandas DataFrames To Analyze School, Student's Budgets And Standardized Test Data.
 ![image](https://github.com/RoshniRanaDS/Data_Analysis_Using_Pandas/assets/161755928/c276f961-d746-4721-ac4c-0c75b1e51356)
